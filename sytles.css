@@ -1,0 +1,9 @@
+.ul_2{
+    list-style: circle;
+}
+.ul_3{
+    list-style: square;
+}
+.li_letr{
+    list-style-type: lower-greek;
+}
